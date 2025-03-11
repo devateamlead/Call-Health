@@ -17,7 +17,10 @@ CH_CommonUtils.readPropertiesFile();
 			CH_TestNGUtility.assertFail(null);
 		}
 		CH_CommonUtils.launchBrowserAndNavigateToApp();
-
+       System.out.println("welocme to github");
+       System.out.println("welocme to Git");
+       
+       
 	}
 
 }
